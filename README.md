@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repo del modulo 2 del prepcourse henry
+Este es un proyecto es una prueba de como crear un repo y clonarlo a local
